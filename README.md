@@ -1,10 +1,10 @@
 - masukan data seperti :
-  1.Input Nama
-  2.Input STNK
+  1. Input Nama
+  2. Input STNK
 - Cek Jawaban :
-  1.Jika jawaban ada arahkan ke "Silahkan pergi" dan selesaikan program.
-  2.Jika jawaban ada arahkan ke "Tidak boleh pergi" dan selesaikan program.
-  3.Jika jawaban tidak ada di dalam daftar yang valid, arahkan ke "Input tidak valid" dan tampilkan pesan kesalahan.
+   1. Jika jawaban ada arahkan ke "Silahkan pergi" dan selesaikan program.
+   2. Jika jawaban ada arahkan ke "Tidak boleh pergi" dan selesaikan program.
+   3. Jika jawaban tidak ada di dalam daftar yang valid, arahkan ke "Input tidak valid" dan tampilkan pesan kesalahan.
 - selesai
 
 
